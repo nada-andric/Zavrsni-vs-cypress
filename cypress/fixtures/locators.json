@@ -1,0 +1,10 @@
+{
+    "login": {
+        "emailInput":"input[type='email']"
+    
+        
+    },
+    "header": {
+        "loginButton":"button[type='submit']"
+    }
+}
